@@ -30,6 +30,9 @@
 	img {
 		align:center;
 		padding:0;
+
+	    -webkit-filter: drop-shadow(5px 5px 5px #a7a7a7);
+	    filter:         drop-shadow(5px 5px 5px #a7a7a7); 
 	}
 	div {
 		margin:0;
